@@ -6,6 +6,9 @@ An NLP-powered recommendation engine that delivers personalized movie suggestion
 <h2>Project Overview</h2>
 
 The Movie Recommender System leverages Python + Natural Language Processing (NLP) to help users discover movies tailored to their interests.
+The preprocess.py file acts as the system’s data enrichment pipeline by pulling cast details, posters, descriptions, 
+genres, and poster URLs directly from the TMDB API..
+
 Using the Bag-of-Words model and cosine similarity, the system identifies how closely movies relate to each other based on:
 
 Cast
