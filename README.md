@@ -47,16 +47,16 @@ Navigate the entire movie list using buttons and sliders.
 
 Follow these steps to set up and run the project locally:
 
-1️⃣ Clone the Repository
+1️. Clone the Repository
 
-2️⃣ Create a Virtual Environment
+2️. Create a Virtual Environment
 
 (Recommended for dependency isolation.)
 
-3️⃣ Install Dependencies
+3️. Install Dependencies: 
 pip install -r requirements.txt
 
-4️⃣ Run the Application
+4️. Run the Application :
 streamlit run main.py
 
 
